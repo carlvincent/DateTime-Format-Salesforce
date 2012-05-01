@@ -1,0 +1,14 @@
+DateTime::Format::Salesforce
+============================
+
+Parses almost almost-ISO8601 date and time format returned from the 
+Salesforce REST API..
+
+INSTALLATION
+  
+To install this module type the following:
+  
+perl Build.PL
+./Build
+./Build test
+./Build install
