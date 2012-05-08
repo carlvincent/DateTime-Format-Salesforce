@@ -7,7 +7,7 @@ use strict;
 use warnings;
 
 use vars qw( $VERSION );
-$VERSION = '0.01_01';
+$VERSION = '0.01_02';
 
 use Carp qw( croak );
 use DateTime;

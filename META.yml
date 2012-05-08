@@ -25,4 +25,8 @@ requires:
   DateTime::Format::Builder: 0.77
 resources:
   license: http://dev.perl.org/licenses/
+  repository: 
+    url: git://github.com/carlvincent/DateTime-Format-Salesforce.git
+    web: https://github.com/carlvincent/DateTime-Format-Salesforce
+    type: git
 version: 0.01_01
