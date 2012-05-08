@@ -15,7 +15,7 @@ name: DateTime-Format-Salesforce
 provides:
   DateTime::Format::Salesforce:
     file: lib/DateTime/Format/Salesforce.pm
-    version: 0.01_01
+    version: 0.01_02
 recommends:
   File::Find::Rule: 0.24
   Test::Distribution: 1.22
@@ -25,8 +25,4 @@ requires:
   DateTime::Format::Builder: 0.77
 resources:
   license: http://dev.perl.org/licenses/
-  repository: 
-    url: git://github.com/carlvincent/DateTime-Format-Salesforce.git
-    web: https://github.com/carlvincent/DateTime-Format-Salesforce
-    type: git
 version: 0.01_01

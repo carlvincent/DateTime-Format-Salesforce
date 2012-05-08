@@ -34,19 +34,14 @@
    "provides" : {
       "DateTime::Format::Salesforce" : {
          "file" : "lib/DateTime/Format/Salesforce.pm",
-         "version" : "0.01_01"
+         "version" : "0.01_02"
       }
    },
    "release_status" : "testing",
    "resources" : {
       "license" : [
          "http://dev.perl.org/licenses/"
-      ],
-      "repository" : {
-         "url" : "git://github.com/carlvincent/DateTime-Format-Salesforce.git",
-         "web" : "https://github.com/carlvincent/DateTime-Format-Salesforce",
-         "type" : "git"
-      }
+      ]
    },
    "version" : "0.01_01"
 }
