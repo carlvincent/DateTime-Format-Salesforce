@@ -7,7 +7,7 @@ use strict;
 use warnings;
 
 use vars qw( $VERSION );
-$VERSION = '0.01_02';
+$VERSION = '0.01_03';
 
 use Carp qw( croak );
 use DateTime;
@@ -254,6 +254,10 @@ Accepts an optional hash.
                     cut_off_year  => 42,
                     legacy_year   => 1,
                 );
+
+=item * clone
+
+Returns a replica of the given object.
 
 =over 4
 
